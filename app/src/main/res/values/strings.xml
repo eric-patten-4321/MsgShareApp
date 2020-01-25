@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Smartherd-Kotlin-MsgShareApp</string>
+    <string name="kotlin_time">Kotlin Time...</string>
 </resources>
